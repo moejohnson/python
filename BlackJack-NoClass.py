@@ -3,7 +3,7 @@ import os
 import random
 
 """
-Future
+Future X
 
 1 - Add Stats W/Total Games - Need to add to ScoreBoard
 2 - Need to only show the first card for dealer on initial deal
